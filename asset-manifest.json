@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cloned-repo-monster-rolodex/static/css/main.8445548c.chunk.css",
+    "main.js": "/cloned-repo-monster-rolodex/static/js/main.98dc4da2.chunk.js",
+    "main.js.map": "/cloned-repo-monster-rolodex/static/js/main.98dc4da2.chunk.js.map",
+    "runtime-main.js": "/cloned-repo-monster-rolodex/static/js/runtime-main.38e8785f.js",
+    "runtime-main.js.map": "/cloned-repo-monster-rolodex/static/js/runtime-main.38e8785f.js.map",
+    "static/js/2.2eaf0afe.chunk.js": "/cloned-repo-monster-rolodex/static/js/2.2eaf0afe.chunk.js",
+    "static/js/2.2eaf0afe.chunk.js.map": "/cloned-repo-monster-rolodex/static/js/2.2eaf0afe.chunk.js.map",
+    "index.html": "/cloned-repo-monster-rolodex/index.html",
+    "precache-manifest.c655e5d706ff33676ca2b029267250f4.js": "/cloned-repo-monster-rolodex/precache-manifest.c655e5d706ff33676ca2b029267250f4.js",
+    "service-worker.js": "/cloned-repo-monster-rolodex/service-worker.js",
+    "static/css/main.8445548c.chunk.css.map": "/cloned-repo-monster-rolodex/static/css/main.8445548c.chunk.css.map",
+    "static/js/2.2eaf0afe.chunk.js.LICENSE.txt": "/cloned-repo-monster-rolodex/static/js/2.2eaf0afe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e8785f.js",
+    "static/js/2.2eaf0afe.chunk.js",
+    "static/css/main.8445548c.chunk.css",
+    "static/js/main.98dc4da2.chunk.js"
+  ]
+}
